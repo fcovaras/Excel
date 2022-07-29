@@ -1,0 +1,9 @@
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Release\WinPerGenArchivo.exe.config
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Release\WinPerGenArchivo.exe
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Release\WinPerGenArchivo.pdb
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.frmGenArchivo.resources
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.Properties.Resources.resources
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.csproj.GenerateResource.cache
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.exe
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Release\WinPerGenArchivo.pdb

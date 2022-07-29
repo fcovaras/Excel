@@ -1,0 +1,7 @@
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGeneraArchivo.exe
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGeneraArchivo.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGeneraArchivo.Form1.resources
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGeneraArchivo.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGeneraArchivo.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGeneraArchivo.exe
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGeneraArchivo.pdb

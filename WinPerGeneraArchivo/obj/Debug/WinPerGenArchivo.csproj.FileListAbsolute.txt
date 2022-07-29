@@ -1,0 +1,18 @@
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGenArchivo.exe
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGenArchivo.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\stdole.dll
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.exe
+c:\users\francisco\documents\visual studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.pdb
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.frmGenArchivo.resources
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGenArchivo.exe
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGenArchivo.pdb
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.frmGenArchivo.resources
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.Properties.Resources.resources
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.csproj.GenerateResource.cache
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.csproj.CoreCompileInputs.cache
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.exe
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\obj\Debug\WinPerGenArchivo.pdb
+C:\Desarrollo\repowp\WinPerGeneraArchivo\WinPerGeneraArchivo\bin\Debug\WinPerGenArchivo.exe.config
